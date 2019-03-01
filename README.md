@@ -1,3 +1,3 @@
 # git_application
 git application  for github project
-by  nandigama kowlini
+by  Nandigama kowlini
